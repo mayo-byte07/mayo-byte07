@@ -1,5 +1,5 @@
 # 💫 About Me:
-"🚀 BTech CSE (AI/ML) Student & Full-Stack Developer. <br>🛠️ Expertise in  UI/UX , GCP , GAME DEV , VIDEO EDITING , ETC.<br>🤖 Building the future with AI-powered coding tools. <br>📍 GDG-QU Member.
+🚀 BTech CSE (AI/ML) Student & Full-Stack Developer. <br>🛠️ Expertise in  UI/UX , GCP , GAME DEV , VIDEO EDITING , ETC.<br>🤖 Building the future with AI-powered coding tools. <br>📍 GDG-QU Member.
 
 
 # 💻 Tech Stack:
