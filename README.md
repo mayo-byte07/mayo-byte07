@@ -12,7 +12,6 @@ Founder @Lstatic | Building @aethercodesociety | Open Source Contributer | Full-
 * 🧠  I'm currently learning Java .
 * 👥  I'm looking to collaborate on Development Projects
 * 💬  I'm Batman , But i can't prove it .
-* 
 --------------------
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mayo-byte07&label=Profile%20Views&color=0e75b6&style=flat)
