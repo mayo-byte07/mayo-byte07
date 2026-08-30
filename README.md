@@ -1,37 +1,68 @@
-Hi 👋 My name is Piyush Singh.
-=============================
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Piyush+Singh+👋;Full-Stack+Developer+|+IoT+Enthusiast;Founder+of+AetherCode+Society;Core+Team+@+GDG+Quantum+University" alt="Typing SVG" />
+</div>
 
-Full Stack Developer
---------------------
+---
 
-Founder @Lstatic | Building @aethercodesociety | Open Source Contributer | Full-Stack Developer | Video Editor | GDG-QU | CS Undergrad @QU’28
+### 🚀 About Me
+I'm a Computer Science Undergrad specializing in AI & ML, passionate about building scalable platforms and hardware integrations. Whether I'm designing crisis reporting architectures or tinkering with microcontrollers, I love bridging the gap between software and the physical world.
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [My Portfolio](http://piyushsinghh.in)
-* ✉️  You can contact me at [piyushsinghdhanwal@gmail.com](mailto:piyushsinghdhanwal@gmail.com)
-* 🧠  I'm currently learning Java .
-* 👥  I'm looking to collaborate on Development Projects
-* 💬  I'm Batman , But i can't prove it .
---------------------
+*   🔭 Currently building **offSOS** (low-bandwidth crisis reporting) and **Lstatic**
+*   🌱 Exploring the depths of **Internet of Things (ESP32/Arduino)** and advanced **Linux** environments
+*   🤝 Community leader as the Founder of **AetherCode Society**
+*   💬 Ask me about **Next.js, Supabase, or kernel-level driver installations**
+*   📫 Reach me at: [**piyushsinghh.in**](https://www.piyushsinghh.in)
 
-![Profile Views](https://komarev.com/ghpvc/?username=mayo-byte07&label=Profile%20Views&color=0e75b6&style=flat)
+---
 
---------------------
+### 💻 Tech Stack & Tools
 
-### Socials
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <br/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <br/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
+  <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
+</div>
 
-<p align="left"> <a href="https://www.github.com/mayo-byte07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/mayeonng" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.stackoverflow.com/users/32491227/piyush-singh" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" alt="Stack Overflow" title="Stack Overflow" /> </picture> </a></p>
+---
 
---------------------
+### 📊 GitHub Stats
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <a href="https://github.com/mayo-byte07">
+    <img src="https://github-readme-stats.vercel.app/api?username=mayo-byte07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/mayo-byte07">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayo-byte07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
-<a href="http://www.github.com/mayo-byte07"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mayo-byte07&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
 
-### Support Me
+### 🐍 Contribution Graph Animation
 
-<ul style="list-style-type: none; margin: 0;">
+<div align="center">
+  <!-- The Snake Animation will appear here once the GitHub Action is set up! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mayo-byte07/mayo-byte07/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mayo-byte07/mayo-byte07/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mayo-byte07/mayo-byte07/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/mayobyte07"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
+---
 
-</ul>
+<div align="center">
+  <a href="https://linkedin.com/in/mayconng">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:piyushsinghgujjar2106@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
