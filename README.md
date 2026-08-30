@@ -36,9 +36,6 @@ I'm a Computer Science Undergrad specializing in AI & ML, passionate about build
 
 <div align="center">
   <a href="https://github.com/mayo-byte07">
-    <img src="https://github-readme-stats.shion.dev/api?username=mayo-byte07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mayo-byte07">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayo-byte07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
