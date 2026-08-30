@@ -9,6 +9,10 @@ on:
     branches:
     - main
 
+# THIS IS THE FIX: Grants the action permission to push to your repo
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -23,7 +27,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           
       - name: Push to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        # Updated to v4 to remove the Node.js warning
+        uses: crazy-max/ghaction-github-pages@v4 
         with:
           target_branch: output
           build_dir: dist
