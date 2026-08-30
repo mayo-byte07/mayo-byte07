@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Piyush+Singh+👋;Full-Stack+Developer+|+IoT+Enthusiast;Founder+of+AetherCode+Society;Core+Team+@+GDG+Quantum+University" alt="Typing SVG" />
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Piyush+Singh+%F0%9F%91%8B;Full-Stack+Developer+%7C+IoT+Enthusiast;Founder+of+AetherCode+Society;Core+Team+%40+GDG+Quantum+University" alt="Typing SVG" />
 </div>
 
 ---
