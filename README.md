@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me
-I'm a Computer Science Undergrad specializing in AI & ML, passionate about building scalable platforms and hardware integrations. Whether I'm designing crisis reporting architectures or tinkering with microcontrollers, I love bridging the gap between software and the physical world.
+"As a 3rd-year Computer Science student specializing in AI & ML, I build scalable platforms and seamless hardware integrations. From designing crisis reporting architectures to tinkering with microcontrollers, I love bridging the gap between software and the physical world."
 
 *   🔭 Currently building **offSOS** (low-bandwidth crisis reporting) and **Lstatic**
 *   🌱 Exploring the depths of **Internet of Things (ESP32/Arduino)** and advanced **Linux** environments
