@@ -8,10 +8,9 @@
 ### 🚀 About Me
 "As a 3rd-year Computer Science student specializing in AI & ML, I build scalable platforms and seamless hardware integrations. From designing crisis reporting architectures to tinkering with microcontrollers, I love bridging the gap between software and the physical world."
 
-*   🔭 Currently building **offSOS** (low-bandwidth crisis reporting) and **Lstatic**
+*   Hackathon Team [@Team Primus](https://github.com/organizations/Team-Primus)
 *   🌱 Exploring the depths of **Internet of Things (ESP32/Arduino)** and advanced **Linux** environments
 *   🤝 Community leader as the Founder of **AetherCode Society**
-*   💬 Ask me about **Next.js, Supabase, or kernel-level driver installations**
 *   📫 Reach me at: [**piyushsinghh.in**](https://www.piyushsinghh.in)
 
 ---
