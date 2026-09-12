@@ -32,16 +32,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/mayo-byte07">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayo-byte07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
-
----
-
 ### 🐍 Contribution Graph Animation
 
 <div align="center">
