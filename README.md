@@ -31,6 +31,15 @@
 </div>
 
 ---
+<div align="center">
+
+  <!-- GitHub Streak Stats -->
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=mayo-byte07&theme=dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+
+
+---
 
 ### 🐍 Contribution Graph Animation
 
